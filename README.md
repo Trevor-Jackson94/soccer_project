@@ -43,7 +43,8 @@ a. What drives the wealth of a team?
 Puma etc.
 11. Most popular teams in the world based on viewers per game/ ticket sales etc.
 12. Does age equate to points?
-13. Home grown talent teams - how would they perform?<br/>
+13. Home grown talent teams - how would they perform?
+<br/><br/>
 Final Topic: Can we predict the outcome of this year’s English Premier League using historical
 data on each team’s players and total salary + expenditure in 2022?
 ##Data
