@@ -47,6 +47,7 @@ Puma etc.
 <br/><br/>
 Final Topic: Can we predict the outcome of this year’s English Premier League using historical
 data on each team’s players and total salary + expenditure in 2022?
+<br/><br/>
 ##Data
 -	https://data.world/chas/2018-2019-premier-league-matches/workspace/file?filename=2018-2019.csv
 -	https://fbref.com/en/comps/9/1992-1993/1992-1993-Premier-League-Stats
