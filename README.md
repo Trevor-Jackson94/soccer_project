@@ -1,6 +1,10 @@
 # Soccer Project
 ## Overview
 Sports statistics is a constantly growing field in the area of data analysis. The introduction of newer technologies yields more precise data, but dynamicity of team sports remains constant. The goal of this project is to use historical scoring data from the Premier League in English Soccer (or Football) to create a model for future scoring trends. Of which the application could be beneficial to creating strategies for teams or for bookies. 
+
+# Presentation Link
+Our working presentation can be found [here](https://docs.google.com/presentation/d/1o5ip7soiPAePsPb0dnv9SElZXOFtalbduMgolXQfZJA/edit?usp=sharing).
+
 ## Results
 Some variables we are considering measuring (per year / total):
 •	Wins
