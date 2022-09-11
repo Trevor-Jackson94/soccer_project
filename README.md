@@ -3,25 +3,26 @@
 Sports statistics is a constantly growing field in the area of data analysis. The introduction of newer technologies yields more precise data, but dynamicity of team sports remains constant. The goal of this project is to use historical scoring data from the Premier League in English Soccer (or Football) to create a model for future scoring trends. Of which the application could be beneficial to creating strategies for teams or for bookies. 
 ## Results
 Metrics Considered:
-•	Total Wins/Losses
-•	Home Wins/Losses/Draws
-•	Away Wins/Losses/Draws
-•	Goal Differential
-•	Goals Scored/Goals For
-•	Goals Allowed/Goals Against
-•	Expected Goals
-•	Expected Goals Against
-•	Player Salary
-•	Yearly Expenditure
-•	Yellow Cards
-•	Red Cards
-•	Fouls
-•	Possession Time
-•	Clean Sheets
-•	Corners
-•	Clearance Off-Line
+- Total Wins/Losses
+- Home Wins/Losses/Draws
+- Away Wins/Losses/Draws
+- Goal Differential
+- Goals Scored/Goals For
+- Goals Allowed/Goals Against
+- Expected Goals
+- Expected Goals Against
+- Player Salary
+- Yearly Expenditure
+- Yellow Cards
+- Red Cards
+- Fouls 
+- Posession Time
+- Clean Sheets
+- Corners
+- Cleaerance Off-line
+<br/><br/>
 Some questions worth exploring:
-•	 How does a red card affect the outcome of a game?
+•	How does a red card affect the outcome of a game?
 •	Is the home team advantage real?
 •	Is it possible to predict the Ballon D’Or qualifiers?
 •	Do larger contracts win more games?
