@@ -52,13 +52,13 @@ data on each team’s players and total salary + expenditure in 2022?
 ## Presentation Link
 Our working presentation can be found here:
 ## File Directory
-•	res
-		o	Resources folder; stores the data files used to create the prediction model
-•	tools
-		o	Convenience directory; contains the SQL database
-•	linear_regressions
-		o	Visualizations folder; linear regressions performed on league statistics
-•	samples
-		o	Misc. directory; other potentially relevant material
-•	doc
-		o	Documents directory; contains readme and presentation documents
+-	res
+	-	Resources folder; stores the data files used to create the prediction model
+-	tools
+	-	Convenience directory; contains the SQL database
+-	linear_regressions
+	-	Visualizations folder; linear regressions performed on league statistics
+-	samples
+	-	Misc. directory; other potentially relevant material
+-	doc
+	-	Documents directory; contains readme and presentation documents
