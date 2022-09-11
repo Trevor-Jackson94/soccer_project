@@ -50,7 +50,8 @@ data on each team’s players and total salary + expenditure in 2022?
 ## Summary
 
 ## Presentation Link
-Our working presentation can be found here:
+[Our working presentation can be found here](https://docs.google.com/presentation/d/16q0i6EGil841_25MqlL2akhZxyA9Bmx5/edit?usp=drivesdk&ouid=113605692926672352936&rtpof=true&sd=true)
+<br/><br/>
 ## File Directory
 -	res
 	-	Resources folder; stores the data files used to create the prediction model
