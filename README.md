@@ -37,10 +37,13 @@ data on each team’s players and total salary + expenditure in 2022?
 -	https://data.world/chas/2018-2019-premier-league-matches/workspace/file?filename=2018-2019.csv
 -	https://fbref.com/en/comps/9/1992-1993/1992-1993-Premier-League-Stats
 -	https://www.gracenote.com/sports/global-sports-data/
+<br/>
 	o	Not sure if this is free
 -	https://www.kaggle.com/datasets/abecklas/fifa-world-cup
+<br/>
 	o	Not Reliable
 -	https://www.kaggle.com/datasets/zaeemnalla/premier-league
+<br/>
 	o	Premier League Team Data
 -	https://www.kaggle.com/datasets/hikne707/big-five-european-soccer-leagues
 
@@ -50,12 +53,12 @@ data on each team’s players and total salary + expenditure in 2022?
 Our working presentation can be found here:
 ## File Directory
 •	res
-	o	Resources folder; stores the data files used to create the prediction model
+		o	Resources folder; stores the data files used to create the prediction model
 •	tools
-	o	Convenience directory; contains the SQL database
+		o	Convenience directory; contains the SQL database
 •	linear_regressions
-	o	Visualizations folder; linear regressions performed on league statistics
+		o	Visualizations folder; linear regressions performed on league statistics
 •	samples
-	o	Misc. directory; other potentially relevant material
+		o	Misc. directory; other potentially relevant material
 •	doc
-	o	Documents directory; contains readme and presentation documents
+		o	Documents directory; contains readme and presentation documents
