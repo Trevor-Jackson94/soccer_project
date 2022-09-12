@@ -50,24 +50,31 @@ Wins vs Rank. The correlation coefficient is 0.8620999637783365.
 Losses vs Rank. The correlation coefficient is 0.8348513553758536.
 
 ![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/Draws_linear_regression.png)
+
 Draws vs Rank. The correlation coefficient is 0.8348513553758536
 
 ![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/GF_linear_regression.png)
+
 Goals For vs Rank. The correlation coefficient is 0.7705022107897.
 
 ![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/GA_linear_regression.png)
+
 Goals Allowed vs Rank. The correlation coefficient is 0.6937529314293645.
 
 ![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/GD_linear_regression.png)
+
 Goal Difference vs Rank. The correlation coefficient is 0.8528223298536382.
 
 ![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/xG_linear_regression.png)
+
 Expected Goals vs Rank. The correlation coefficient is 0.6722410724460481.
 
 ![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/xGA_linear_regression.png)
+
 Expected Goals Allowed vs Rank. The correlation coefficient is 0.6086576422147334.
 
 ![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/xGD_linear_regression.png)
+
 Expected Goal Difference vs Rank. The correlation coefficient is 0.728149070668735.
 
 #### Mulitple Linear Regression to predict points
