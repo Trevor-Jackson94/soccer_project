@@ -49,9 +49,9 @@ Wins vs Rank. The correlation coefficient is 0.8620999637783365.
 ![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/Losses_linear_regression.png)
 Losses vs Rank. The correlation coefficient is 0.8348513553758536.
 
-![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/Draws_linear_regression.png)
+![image](https://github.com/Trevor-Jackson94/soccer_project/blob/64efa183b6d99836ff59261465eb2bedf2d6d33e/images/Draws_linear_regression.png)
 
-Draws vs Rank. The correlation coefficient is 0.8348513553758536
+Draws vs Rank. The correlation coefficient is0.055343155643351016.
 
 ![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/GF_linear_regression.png)
 
