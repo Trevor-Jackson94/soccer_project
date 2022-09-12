@@ -20,6 +20,7 @@ Metrics Considered:
 - Clean Sheets
 - Corners
 - Cleaerance Off-line
+- Attendance
 <br/><br/>
 Some questions worth exploring:
 •	How does a red card affect the outcome of a game?
@@ -30,9 +31,6 @@ Some questions worth exploring:
 •	What’s the most important variable in determining ticket sales?
 •	How do age and experience affect scoring potential?
 
-<br/><br/>
-Final Topic: Can we predict the outcome of this year’s English Premier League using historical
-data on each team’s players and total salary + expenditure in 2022?
 
 ## Dashboard
 [Link to Dashboard](https://public.tableau.com/app/profile/edwin.yu7780/viz/EnglishPremierLeagueAnalytics/EPLAnalytics?publish=yes)
