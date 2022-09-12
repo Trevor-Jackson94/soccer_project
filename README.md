@@ -77,6 +77,10 @@ Expected Goals Allowed vs Rank. The correlation coefficient is 0.608657642214733
 
 Expected Goal Difference vs Rank. The correlation coefficient is 0.728149070668735.
 
+![image](https://github.com/Trevor-Jackson94/soccer_project/blob/b6235d0482080e0c49fb7024de9b288af2f1e2db/images/Attendance_linear_regression.png)
+
+Attendance vs Rank. The correlation coeffficient is 0.15846314148638874.
+
 #### Mulitple Linear Regression to predict points
 
 ![image](https://user-images.githubusercontent.com/102786356/189578018-a3e31e64-3b34-4f80-9400-52b7311c0b0f.png)
