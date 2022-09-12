@@ -34,11 +34,11 @@ Some questions worth exploring:
 Final Topic: Can we predict the outcome of this year’s English Premier League using historical
 data on each team’s players and total salary + expenditure in 2022?
 
-
+## Dashboard
+[Link to Dasboard]https://public.tableau.com/app/profile/edwin.yu7780/viz/EnglishPremierLeagueAnalytics/EPLAnalytics?publish=yes
 
 ## Linear Regression
-[link to dashboard](https://public.tableau.com/app/profile/edwin.yu7780/viz/EnglishPremierLeagueAnalytics/EPLAnalytics?publish=yes
-)
+
 ##### Linear Regression Examing Rank vs different variables
 
 We examined the relationship between the ranking of each team with data gathered over the last 5 seasons from the EPL from FBref.com. We looked at ranking versus Wins, Losses, Draws, Goals Allowed(GA), Goals For(GF), Goal Difference(GD), Expected Goals(xG), Expected Goals Allowed(xGA), and Expected Goal Difference(xGD) to find which variables have the strongest correlation to determining a championship winning soccer team based on the data we have. Here are the images of the models with their respective correlation coefficients. [link to code](https://github.com/Trevor-Jackson94/soccer_project/tree/main/linear_regressions)
