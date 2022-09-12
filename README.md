@@ -35,7 +35,7 @@ Final Topic: Can we predict the outcome of this year’s English Premier League 
 data on each team’s players and total salary + expenditure in 2022?
 
 ## Dashboard
-[Link to Dasboard]https://public.tableau.com/app/profile/edwin.yu7780/viz/EnglishPremierLeagueAnalytics/EPLAnalytics?publish=yes
+[Link to Dashboard](https://public.tableau.com/app/profile/edwin.yu7780/viz/EnglishPremierLeagueAnalytics/EPLAnalytics?publish=yes)
 
 ## Linear Regression
 
