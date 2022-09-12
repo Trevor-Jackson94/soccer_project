@@ -33,6 +33,30 @@ Some questions worth exploring:
 <br/><br/>
 Final Topic: Can we predict the outcome of this year’s English Premier League using historical
 data on each team’s players and total salary + expenditure in 2022?
+
+## Linear Regression
+#### Mulitple Linear Regression to predict points
+
+![image](https://user-images.githubusercontent.com/102786356/189578018-a3e31e64-3b34-4f80-9400-52b7311c0b0f.png)
+
+This linear regression is based on using 3 attributes (years, squad, and goal difference) from the dataset to predict points. 
+
+![image](https://user-images.githubusercontent.com/102786356/189578555-1411772d-94b2-43ec-9f5e-a053c908d0f2.png)
+![image](https://user-images.githubusercontent.com/102786356/189578805-a3792d11-d7ca-4dbf-b755-530d49f30d9b.png)
+
+The years and squad columns are converted from categorical to numerical variables since linear regression assumes all independent variables are numerical
+
+![image](https://user-images.githubusercontent.com/102786356/189579805-eb58cd04-9398-4f13-b815-730cf80211fd.png)
+
+![image](https://user-images.githubusercontent.com/102786356/189579029-1b4d1df8-3ed0-48c0-b4e4-775a13dfecaa.png)
+
+Per the above image, the data is split into 80% train and 20% test. The model is trained and the prediction on the test data
+is made. The model returns an intercept of about 51.95, root mean squared error of 0.89 and coefficients 0.28, 0.02, 0.68 for the attributes.
+
+![image](https://user-images.githubusercontent.com/102786356/189579675-bc829ad9-3817-4e95-9ca3-1001325a5b1b.png)
+
+The above image highlights the actual points vs the predicted points 
+
 <br/><br/>
 ## Data
 -	https://data.world/chas/2018-2019-premier-league-matches/workspace/file?filename=2018-2019.csv
