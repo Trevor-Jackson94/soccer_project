@@ -41,7 +41,7 @@ data on each team’s players and total salary + expenditure in 2022?
 )
 ##### Linear Regression Examing Rank vs different variables
 
-We examined the relationship between the ranking of each team with data gathered over the last 5 seasons from the EPL from FBref.com. We looked at ranking versus Wins, Losses, Draws, Goals Allowed(GA), Goals For(GF), Goal Difference(GD), Expected Goals(xG), Expected Goals Allowed(xGA), and Expected Goal Difference(xGD) to find which variables have the strongest correlation to determining a championship winning soccer team based on the data we have. Here are the images of the models with their respective correlation coefficients.
+We examined the relationship between the ranking of each team with data gathered over the last 5 seasons from the EPL from FBref.com. We looked at ranking versus Wins, Losses, Draws, Goals Allowed(GA), Goals For(GF), Goal Difference(GD), Expected Goals(xG), Expected Goals Allowed(xGA), and Expected Goal Difference(xGD) to find which variables have the strongest correlation to determining a championship winning soccer team based on the data we have. Here are the images of the models with their respective correlation coefficients. [link to code](https://github.com/Trevor-Jackson94/soccer_project/tree/main/linear_regressions)
 
 ![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/Wins_linear_regression.png)
 Wins vs Rank. The correlation coefficient is 0.8620999637783365.
