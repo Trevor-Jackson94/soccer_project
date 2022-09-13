@@ -41,41 +41,41 @@ Some questions worth exploring:
 
 We examined the relationship between the ranking of each team with data gathered over the last 5 seasons from the EPL from FBref.com. We looked at ranking versus Wins, Losses, Draws, Goals Allowed(GA), Goals For(GF), Goal Difference(GD), Expected Goals(xG), Expected Goals Allowed(xGA), and Expected Goal Difference(xGD) to find which variables have the strongest correlation to determining a championship winning soccer team based on the data we have. Here are the images of the models with their respective correlation coefficients. [link to code](https://github.com/Trevor-Jackson94/soccer_project/tree/main/linear_regressions)
 
-![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/Wins_linear_regression.png =400x600)
+![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/Wins_linear_regression.png)
 Wins vs Rank. The correlation coefficient is 0.8620999637783365.
 
-![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/Losses_linear_regression.png = 400x600)
+![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/Losses_linear_regression.png)
 Losses vs Rank. The correlation coefficient is 0.8348513553758536.
 
-![image](https://github.com/Trevor-Jackson94/soccer_project/blob/64efa183b6d99836ff59261465eb2bedf2d6d33e/images/Draws_linear_regression.png = 400x600)
+![image](https://github.com/Trevor-Jackson94/soccer_project/blob/64efa183b6d99836ff59261465eb2bedf2d6d33e/images/Draws_linear_regression.png)
 
 Draws vs Rank. The correlation coefficient is 0.055343155643351016.
 
-![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/GF_linear_regression.png =400x600)
+![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/GF_linear_regression.png)
 
 Goals For vs Rank. The correlation coefficient is 0.7705022107897.
 
-![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/GA_linear_regression.png =400x600)
+![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/GA_linear_regression.png)
 
 Goals Allowed vs Rank. The correlation coefficient is 0.6937529314293645.
 
-![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/GD_linear_regression.png =400x600)
+![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/GD_linear_regression.png)
 
 Goal Difference vs Rank. The correlation coefficient is 0.8528223298536382.
 
-![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/xG_linear_regression.png =400x600)
+![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/xG_linear_regression.png)
 
 Expected Goals vs Rank. The correlation coefficient is 0.6722410724460481.
 
-![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/xGA_linear_regression.png = 400x600)
+![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/xGA_linear_regression.png)
 
 Expected Goals Allowed vs Rank. The correlation coefficient is 0.6086576422147334.
 
-![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/xGD_linear_regression.png 400x600)
+![image](https://github.com/Trevor-Jackson94/soccer_project/blob/5bb8234290b07a7417bf366ae9b33e79bfc40a63/images/xGD_linear_regression.png)
 
 Expected Goal Difference vs Rank. The correlation coefficient is 0.728149070668735.
 
-![image](https://github.com/Trevor-Jackson94/soccer_project/blob/b6235d0482080e0c49fb7024de9b288af2f1e2db/images/Attendance_linear_regression.png 400x600)
+![image](https://github.com/Trevor-Jackson94/soccer_project/blob/b6235d0482080e0c49fb7024de9b288af2f1e2db/images/Attendance_linear_regression.png)
 
 Attendance vs Rank. The correlation coeffficient is 0.15846314148638874.
 
