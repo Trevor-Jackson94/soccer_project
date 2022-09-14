@@ -153,7 +153,7 @@ is made. The model returns an intercept of about 51.95, root mean squared error 
 
 
 ## Presentation Link
-[Our working presentation can be found here](https://docs.google.com/presentation/d/16q0i6EGil841_25MqlL2akhZxyA9Bmx5/edit?usp=drivesdk&ouid=113605692926672352936&rtpof=true&sd=true)
+[Our working presentation can be found here](https://docs.google.com/presentation/d/1BjmEo1WhOjyOX7m9EqW2_N1Lzji-09dv/edit#slide=id.p16)
 <br/><br/>
 ## File Directory
 -	res
