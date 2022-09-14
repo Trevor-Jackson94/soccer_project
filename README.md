@@ -31,11 +31,12 @@ Some questions worth exploring:
 •	What’s the most important variable in determining ticket sales?
 •	How do age and experience affect scoring potential?
 
+## Summary
 
-## Dashboard
+### Dashboard
 [Link to Dashboard](https://public.tableau.com/app/profile/edwin.yu7780/viz/EnglishPremierLeagueAnalytics/EPLAnalytics?publish=yes)
 
-## Linear Regression
+### Linear Regression
 
 ##### Linear Regression Examing Rank vs different variables
 
@@ -149,7 +150,7 @@ is made. The model returns an intercept of about 51.95, root mean squared error 
 	o	Premier League Team Data
 -	https://www.kaggle.com/datasets/hikne707/big-five-european-soccer-leagues
 
-## Summary
+
 
 ## Presentation Link
 [Our working presentation can be found here](https://docs.google.com/presentation/d/16q0i6EGil841_25MqlL2akhZxyA9Bmx5/edit?usp=drivesdk&ouid=113605692926672352936&rtpof=true&sd=true)
